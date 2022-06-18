@@ -1,0 +1,101 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #def2f1;
+}
+
+.navbar {
+  background-color: #1f2f16;
+  padding: 10px;
+  overflow: hidden
+}
+
+.navbar a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.navbar a:hover {
+  background-color: #537f71;
+}
+
+.logo {
+/*   width: 100px;
+  height: 100px; */
+  width: 75px;
+  height: 60px;
+}
+
+/*NAVBAR^^*/
+
+.header {
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  color: #1f2f16;
+}
+
+.communityForm {
+  background-color: #1f2f16;
+  padding: 10px;
+  overflow: hidden
+}
+.communityForm {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Abril Fatface', cursive;
+}
+.communityForm a:hover {
+  background-color: #537f71;
+}
+
+.viewOthers {
+  background-color: #1f2f16;
+  padding: 10px;
+  overflow: hidden;
+}
+.viewOthers {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: 'Abril Fatface', cursive;
+}
+.viewOthers a:hover {
+  background-color: #537f71;
+}
+
+.text {
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+  color: #1f2f16;
+}
+
+.button {
+  margin: auto;
+}
+
+.googleFormLink {
+  margin-left: 25px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding : 20px;
+}
+
+.about {
+  margin-left: 700px;
+}
